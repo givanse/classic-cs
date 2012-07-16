@@ -1,4 +1,4 @@
 classic-cs
 ==================
 
-Classic computer science exercises.
+Unit tests for classic computer science exercises.
